@@ -1,2 +1,1 @@
-# Techyjuant Backend Development Assignments Log
-Assignment 1
+Examples here we go
